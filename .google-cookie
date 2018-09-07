@@ -1,0 +1,13 @@
+#LWP-Cookies-2.0
+Set-Cookie3: 1P_JAR="2018-09-06-14"; path="/"; domain=".google.com"; path_spec; domain_dot; expires="2018-10-06 14:25:18Z"; version=0
+Set-Cookie3: NID="138=c3aKxM_WycqvOz9jwuc88oVxix2R1RZXC70zU2YzzYHCvi8gP7hFJTskTAZnarJZYql8mMHtn9YEjxyqI47Doq5Ada-At-jKpO45ctBKNVx2ZFQK3b7tnhmg_WpebckY"; path="/"; domain=".google.com"; path_spec; domain_dot; expires="2019-03-08 14:25:18Z"; HttpOnly=None; version=0
+Set-Cookie3: CGIC=""; path="/complete/search"; domain=".google.com"; path_spec; domain_dot; expires="2019-03-08 05:19:54Z"; HttpOnly=None; version=0
+Set-Cookie3: CGIC=""; path="/search"; domain=".google.com"; path_spec; domain_dot; expires="2019-03-08 05:19:54Z"; HttpOnly=None; version=0
+Set-Cookie3: 1P_JAR="2018-09-06-13"; path="/"; domain=".google.com.hk"; path_spec; domain_dot; expires="2018-10-06 13:57:54Z"; version=0
+Set-Cookie3: NID="136=rLEqroQYCW58gpONlZUIEqt0neAIS0DlK81PZvQ_KjmZxxTEX05VR1En7GqyeNU7iaXZeroiFBCkTlxoPonLT3TSgqAvYnOuy18G6s-YQxVJD7GGM2lMY9noo1BW6gin"; path="/"; domain=".google.com.hk"; path_spec; domain_dot; expires="2019-02-14 17:20:15Z"; HttpOnly=None; version=0
+Set-Cookie3: CGIC=""; path="/complete/search"; domain=".google.com.hk"; path_spec; domain_dot; expires="2019-02-14 08:14:51Z"; HttpOnly=None; version=0
+Set-Cookie3: CGIC=""; path="/search"; domain=".google.com.hk"; path_spec; domain_dot; expires="2019-02-14 08:14:51Z"; HttpOnly=None; version=0
+Set-Cookie3: 1P_JAR="2018-09-06-13"; path="/"; domain=".google.com.tw"; path_spec; domain_dot; expires="2018-10-06 13:12:14Z"; version=0
+Set-Cookie3: NID="138=WagwxmCq1rr12BuDiLFR3uVq7D8wRFwobElEKtJeCrNi2j9ts3wnDUw0t-3kB2U-YNR5Op9Z76F_s_TsmOOesACKHJCzDk7vl1agIzZk8JsKY6CBRpr1Hp4TwLAgV5RU"; path="/"; domain=".google.com.tw"; path_spec; domain_dot; expires="2019-03-08 13:10:32Z"; HttpOnly=None; version=0
+Set-Cookie3: CGIC=""; path="/complete/search"; domain=".google.com.tw"; path_spec; domain_dot; expires="2019-03-08 04:05:08Z"; HttpOnly=None; version=0
+Set-Cookie3: CGIC=""; path="/search"; domain=".google.com.tw"; path_spec; domain_dot; expires="2019-03-08 04:05:08Z"; HttpOnly=None; version=0
